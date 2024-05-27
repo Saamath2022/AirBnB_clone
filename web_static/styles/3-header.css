@@ -1,0 +1,16 @@
+header {
+  background-color: 000;
+  color: white;
+  height: 70;
+  width: 100%;
+  border-bottom: 1px solid;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  background: url("...\web_static\images") no-repeat;
+  background-size: contain;
+  height: 100%;
+  width: 50px;
+  margin-left: 20px;
+}
