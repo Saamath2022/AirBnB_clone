@@ -1,5 +1,5 @@
 footer {
-  background: url() no-repeat;
+  background: url(...\web_static\images) no-repeat;
   background-size: contain;
   height: 100%;
   width: 50px;
