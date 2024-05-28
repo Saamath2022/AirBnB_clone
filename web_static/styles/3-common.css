@@ -1,10 +1,13 @@
-body {
+body,
+html {
   margin: 0;
   padding: 0;
   color: 484848;
   font-size: 14px;
-  font-family: Circular, "Helvetica Neue", Arial, Helvetica, sans-serif;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header,
+footer {
+  box-sizing: border-box;
 }

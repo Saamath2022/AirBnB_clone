@@ -1,16 +1,12 @@
 header {
-  background-color: 000;
-  color: white;
-  height: 70;
+  height: 70px;
   width: 100%;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #cccccc;
   display: flex;
   align-items: center;
+  padding-left: 20px;
+  background-color: #000;
 }
-.logo {
-  background: url("...\web_static\images") no-repeat;
-  background-size: contain;
-  height: 100%;
-  width: 50px;
-  margin-left: 20px;
+header .logo {
+  margin-right: auto;
 }
